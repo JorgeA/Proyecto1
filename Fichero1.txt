@@ -3,4 +3,8 @@ esta es la segunda linea
 Tercera linea
 Cuarta linea
 Final del archivo
+<<<<<<< HEAD
 Cambio en rama Master
+=======
+Cambio en rama gris
+>>>>>>> Gris
