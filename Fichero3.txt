@@ -1,5 +1,3 @@
 Tercer file en el repo.
 Esta linea ha sido agregada en la rama master.
-Cambio probando git diff.
-Ultima linea fichero 3
-Nueva linea para probar Git Revert
+Esta linea se a incluido en la rama Gris.
